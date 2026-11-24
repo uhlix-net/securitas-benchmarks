@@ -1,0 +1,15 @@
+Securitas benchmarks
+
+The rule data in these packages (securitas-benchmark.json: recommendation IDs, titles, Automated/Manual labels,
+profiles and section names) is derived from CIS Benchmarks published by the Center for Internet Security, Inc.
+(https://www.cisecurity.org/cis-benchmarks), which are licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International licence. It is shared under the same licence:
+
+  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+You may share and adapt it for non-commercial purposes, with attribution to CIS and to this repository, and you
+must share adaptations under the same licence. CIS has not reviewed or endorsed these packages.
+
+The checks in each package's audit/ folder are third-party content under their own licences, included in the
+package (Ansible-Lockdown audit content: MIT).
